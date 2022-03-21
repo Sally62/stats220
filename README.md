@@ -1,2 +1,2 @@
 # stats220
-## This is my repo.
+This is my repo.
